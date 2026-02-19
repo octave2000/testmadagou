@@ -1,0 +1,13 @@
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Studio';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Condo';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'House';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Duplex';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Bungalow';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Loft';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Land';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Office';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Retail';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Warehouse';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Industrial';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'MixedUse';
+ALTER TYPE "PropertyType" ADD VALUE IF NOT EXISTS 'Residential';

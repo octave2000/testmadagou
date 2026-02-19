@@ -1,0 +1,1266 @@
+[
+  {
+    "id": 1,
+    "name": "Central Yaoundé Executive Apartment",
+    "description": "Located in the administrative heart of Yaoundé, this executive apartment offers a balanced mix of comfort, accessibility, and modern living. The property features a spacious living room ideal for relaxation or entertaining guests, a well-equipped kitchen, and bedrooms designed to maximize airflow and natural light. Its proximity to offices, restaurants, and public transport makes it an excellent choice for professionals and expatriates.",
+    "pricePerMonth": 700,
+    "securityDeposit": 700,
+    "applicationFee": 25,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1560449752-5f9b3c4c6d2a"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "HighSpeedInternet",
+      "Parking",
+      "WiFi"
+    ],
+    "highlights": [
+      "HighSpeedInternetAccess",
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 950,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-05T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 12,
+    "locationId": 1,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 2,
+    "name": "Modern Douala City Apartment",
+    "description": "This modern apartment is situated in Douala’s vibrant commercial zone, offering quick access to business hubs and shopping centers. Designed for urban living, the unit includes a contemporary kitchen, functional layout, and secure parking. Ideal for young professionals seeking convenience and a dynamic lifestyle.",
+    "pricePerMonth": 650,
+    "securityDeposit": 650,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "Parking",
+      "Refrigerator",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 880,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-07T00:00:00Z",
+    "averageRating": 4.4,
+    "numberOfReviews": 9,
+    "locationId": 2,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 3,
+    "name": "Buea Hillside Family Home",
+    "description": "Nestled on the calm hillsides of Buea, this family home offers a cool climate and peaceful surroundings. The layout emphasizes space and comfort, with generously sized rooms and a welcoming living area. Perfect for families or long-term residents seeking tranquility while staying close to town amenities.",
+    "pricePerMonth": 900,
+    "securityDeposit": 900,
+    "applicationFee": 30,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WasherDryer",
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1400,
+    "propertyType": "Villa",
+    "postedDate": "2024-01-09T00:00:00Z",
+    "averageRating": 4.7,
+    "numberOfReviews": 15,
+    "locationId": 3,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 4,
+    "name": "Bamenda Townhouse Residence",
+    "description": "This townhouse offers a comfortable and functional living environment in Bamenda. Designed with practicality in mind, it includes multiple bedrooms, a modern kitchen, and secure surroundings. The property is suitable for families or professionals looking for a quiet yet accessible neighborhood.",
+    "pricePerMonth": 750,
+    "securityDeposit": 750,
+    "applicationFee": 25,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c"
+    ],
+    "amenities": [
+      "Parking",
+      "HighSpeedInternet",
+      "WiFi"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1200,
+    "propertyType": "Townhouse",
+    "postedDate": "2024-01-11T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 10,
+    "locationId": 4,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 5,
+    "name": "Garoua Riverside Cottage",
+    "description": "Located near the Benoue River, this charming cottage offers a serene lifestyle with refreshing natural surroundings. The property combines rustic appeal with essential modern comforts, making it ideal for tenants seeking calm living away from city congestion.",
+    "pricePerMonth": 500,
+    "securityDeposit": 500,
+    "applicationFee": 15,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "Parking"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 850,
+    "propertyType": "Cottage",
+    "postedDate": "2024-01-13T00:00:00Z",
+    "averageRating": 4.3,
+    "numberOfReviews": 7,
+    "locationId": 5,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 6,
+    "name": "Maroua Urban Apartment",
+    "description": "This well-maintained apartment in Maroua offers a comfortable living option with easy access to markets, schools, and main roads. Designed to handle warm climates efficiently, the apartment includes proper ventilation and practical interior layouts.",
+    "pricePerMonth": 450,
+    "securityDeposit": 450,
+    "applicationFee": 15,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1595526114035-45b7d0a2c95d",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "Refrigerator"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 780,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-15T00:00:00Z",
+    "averageRating": 4.2,
+    "numberOfReviews": 6,
+    "locationId": 6,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 7,
+    "name": "Ngaoundéré Plateau Residence",
+    "description": "Situated on the plateau of Ngaoundéré, this residence benefits from a cooler climate and open surroundings. The property features spacious rooms, a welcoming living area, and a calm environment suitable for families or long-term stays.",
+    "pricePerMonth": 600,
+    "securityDeposit": 600,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    ],
+    "amenities": [
+      "Parking",
+      "HighSpeedInternet"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1150,
+    "propertyType": "Villa",
+    "postedDate": "2024-01-17T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 8,
+    "locationId": 7,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 8,
+    "name": "Bafoussam City Apartment",
+    "description": "A practical apartment located in the growing city of Bafoussam. The property offers a smart layout, comfortable rooms, and essential amenities. It is well-suited for professionals or small families seeking affordability without sacrificing quality.",
+    "pricePerMonth": 520,
+    "securityDeposit": 520,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 820,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-19T00:00:00Z",
+    "averageRating": 4.3,
+    "numberOfReviews": 7,
+    "locationId": 8,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 9,
+    "name": "Ebolowa Suburban Home",
+    "description": "This suburban home in Ebolowa offers generous outdoor space and a relaxed pace of life. The property is well-suited for families seeking privacy and room to grow while remaining within reach of essential services.",
+    "pricePerMonth": 580,
+    "securityDeposit": 580,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1599423300746-b62533397364",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1250,
+    "propertyType": "Villa",
+    "postedDate": "2024-01-21T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 9,
+    "locationId": 9,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 10,
+    "name": "Kribi Coastal Apartment",
+    "description": "Enjoy coastal living in this bright and airy apartment located close to Kribi’s beaches. The unit is ideal for tenants seeking a relaxed lifestyle with ocean proximity while maintaining modern indoor comfort and security.",
+    "pricePerMonth": 850,
+    "securityDeposit": 850,
+    "applicationFee": 30,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1502005097973-6a7082348e28",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi",
+      "Parking"
+    ],
+    "highlights": [
+      "GreatView"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 900,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-23T00:00:00Z",
+    "averageRating": 4.7,
+    "numberOfReviews": 13,
+    "locationId": 10,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 11,
+    "name": "Limbe Ocean Breeze Apartment",
+    "description": "This well-positioned apartment in Limbe offers a refreshing coastal atmosphere combined with modern comfort. The layout is designed to maximize airflow and natural light, creating a calm and inviting living space. Located close to the beach, shops, and restaurants, it is ideal for tenants who appreciate relaxed seaside living without compromising on accessibility.",
+    "pricePerMonth": 800,
+    "securityDeposit": 800,
+    "applicationFee": 30,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1502005097973-6a7082348e28"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi",
+      "Parking"
+    ],
+    "highlights": [
+      "GreatView"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 920,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-25T00:00:00Z",
+    "averageRating": 4.7,
+    "numberOfReviews": 11,
+    "locationId": 11,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 12,
+    "name": "Kumba Family Townhouse",
+    "description": "This spacious townhouse in Kumba is designed for family living, offering multiple bedrooms, a functional kitchen, and a comfortable living area. The neighborhood is quiet and suitable for long-term residence, with easy access to schools, markets, and essential services.",
+    "pricePerMonth": 620,
+    "securityDeposit": 620,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+    ],
+    "amenities": [
+      "Parking",
+      "HighSpeedInternet"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1300,
+    "propertyType": "Townhouse",
+    "postedDate": "2024-01-27T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 9,
+    "locationId": 12,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 13,
+    "name": "Bertoua Modern Residential Apartment",
+    "description": "This modern residential apartment in Bertoua provides a comfortable and secure living environment. With a well-planned layout, good ventilation, and essential amenities, it is suitable for professionals and small families seeking reliability and affordability.",
+    "pricePerMonth": 540,
+    "securityDeposit": 540,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 830,
+    "propertyType": "Apartment",
+    "postedDate": "2024-01-29T00:00:00Z",
+    "averageRating": 4.3,
+    "numberOfReviews": 6,
+    "locationId": 13,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 14,
+    "name": "Dschang Mountain View Cottage",
+    "description": "Situated in the cool highlands of Dschang, this charming cottage offers a peaceful retreat with scenic surroundings. The property features cozy interiors, natural lighting, and an atmosphere ideal for those seeking calm living away from busy urban centers.",
+    "pricePerMonth": 480,
+    "securityDeposit": 480,
+    "applicationFee": 15,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood",
+      "GreatView"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 780,
+    "propertyType": "Cottage",
+    "postedDate": "2024-02-01T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 8,
+    "locationId": 14,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 15,
+    "name": "Foumban Royal District Villa",
+    "description": "Located near Foumban’s historic royal district, this villa offers a blend of cultural charm and modern comfort. Spacious rooms, a large compound, and a serene environment make it suitable for families or executives seeking a prestigious residential setting.",
+    "pricePerMonth": 1100,
+    "securityDeposit": 1100,
+    "applicationFee": 40,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
+    ],
+    "amenities": [
+      "Parking",
+      "AirConditioning",
+      "WasherDryer"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 4,
+    "baths": 3,
+    "squareFeet": 1900,
+    "propertyType": "Villa",
+    "postedDate": "2024-02-03T00:00:00Z",
+    "averageRating": 4.8,
+    "numberOfReviews": 14,
+    "locationId": 15,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 16,
+    "name": "Nkongsamba City Apartment",
+    "description": "This city apartment in Nkongsamba offers practical urban living with easy access to main roads and local markets. The space is efficiently designed to provide comfort, making it suitable for working professionals or small households.",
+    "pricePerMonth": 520,
+    "securityDeposit": 520,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1595526114035-45b7d0a2c95d",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "Refrigerator"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 800,
+    "propertyType": "Apartment",
+    "postedDate": "2024-02-05T00:00:00Z",
+    "averageRating": 4.2,
+    "numberOfReviews": 5,
+    "locationId": 16,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 17,
+    "name": "Mbouda Suburban Family Home",
+    "description": "This suburban home in Mbouda offers generous living space, suitable for families seeking comfort and privacy. The layout emphasizes functionality with multiple bedrooms and a welcoming living area in a calm residential neighborhood.",
+    "pricePerMonth": 600,
+    "securityDeposit": 600,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1599423300746-b62533397364",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1350,
+    "propertyType": "Villa",
+    "postedDate": "2024-02-07T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 8,
+    "locationId": 17,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 18,
+    "name": "Yagoua Riverside Apartment",
+    "description": "This apartment near the Logone River in Yagoua offers a calm living experience with convenient access to local amenities. The unit is designed to stay cool and functional, ideal for tenants seeking simplicity and comfort.",
+    "pricePerMonth": 430,
+    "securityDeposit": 430,
+    "applicationFee": 15,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be"
+    ],
+    "amenities": [
+      "AirConditioning"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 760,
+    "propertyType": "Apartment",
+    "postedDate": "2024-02-09T00:00:00Z",
+    "averageRating": 4.1,
+    "numberOfReviews": 4,
+    "locationId": 18,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 19,
+    "name": "Batouri Mining District Residence",
+    "description": "Located in Batouri’s residential mining district, this home offers solid construction and generous outdoor space. It is well-suited for long-term tenants seeking a durable and spacious living environment close to economic activity.",
+    "pricePerMonth": 560,
+    "securityDeposit": 560,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1200,
+    "propertyType": "Villa",
+    "postedDate": "2024-02-11T00:00:00Z",
+    "averageRating": 4.4,
+    "numberOfReviews": 6,
+    "locationId": 19,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 20,
+    "name": "Tiko Plantation View Apartment",
+    "description": "Overlooking the plantation areas of Tiko, this apartment offers scenic views and a calm residential setting. The property is well-ventilated and suitable for tenants who prefer peaceful surroundings while remaining connected to nearby towns.",
+    "pricePerMonth": 650,
+    "securityDeposit": 650,
+    "applicationFee": 25,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi",
+      "Parking"
+    ],
+    "highlights": [
+      "GreatView"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 900,
+    "propertyType": "Apartment",
+    "postedDate": "2024-02-13T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 10,
+    "locationId": 20,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 21,
+    "name": "Yaoundé Diplomatic Quarter Apartment",
+    "description": "Located in Yaoundé’s diplomatic and residential quarter, this apartment offers a secure and refined living environment. The interior layout is spacious and well-lit, featuring a comfortable living room, modern kitchen fittings, and bedrooms designed for long-term comfort. Ideal for diplomats, professionals, or small families seeking a calm yet central location.",
+    "pricePerMonth": 900,
+    "securityDeposit": 900,
+    "applicationFee": 35,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "HighSpeedInternet",
+      "Parking",
+      "WiFi"
+    ],
+    "highlights": [
+      "QuietNeighborhood",
+      "HighSpeedInternetAccess"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1200,
+    "propertyType": "Apartment",
+    "postedDate": "2024-02-15T00:00:00Z",
+    "averageRating": 4.8,
+    "numberOfReviews": 16,
+    "locationId": 1,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 22,
+    "name": "Douala Bonapriso Executive Villa",
+    "description": "This executive villa in Bonapriso offers premium living in one of Douala’s most desirable neighborhoods. The property features expansive living spaces, high ceilings, and a private compound suitable for entertaining guests. Designed for executives and expatriates, it combines prestige, comfort, and accessibility.",
+    "pricePerMonth": 2300,
+    "securityDeposit": 2300,
+    "applicationFee": 80,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WasherDryer",
+      "Parking",
+      "Pool"
+    ],
+    "highlights": [
+      "RecentlyRenovated",
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 4,
+    "baths": 3,
+    "squareFeet": 2400,
+    "propertyType": "Villa",
+    "postedDate": "2024-02-17T00:00:00Z",
+    "averageRating": 4.9,
+    "numberOfReviews": 21,
+    "locationId": 2,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 23,
+    "name": "Buea University Area Apartment",
+    "description": "Situated near the university district in Buea, this apartment is ideal for lecturers, postgraduate students, or professionals. The property offers reliable utilities, good ventilation, and a practical layout designed for focused living in a quiet academic environment.",
+    "pricePerMonth": 600,
+    "securityDeposit": 600,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858"
+    ],
+    "amenities": [
+      "WiFi",
+      "HighSpeedInternet"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 850,
+    "propertyType": "Apartment",
+    "postedDate": "2024-02-19T00:00:00Z",
+    "averageRating": 4.4,
+    "numberOfReviews": 9,
+    "locationId": 3,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 24,
+    "name": "Bamenda Hillside Residential Villa",
+    "description": "Perched on the hills of Bamenda, this residential villa offers scenic surroundings and a peaceful atmosphere. The home features spacious interiors, a large living area, and a compound suitable for family living. Ideal for tenants seeking space, privacy, and fresh air.",
+    "pricePerMonth": 1200,
+    "securityDeposit": 1200,
+    "applicationFee": 40,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1599423300746-b62533397364",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed",
+      "AirConditioning"
+    ],
+    "highlights": [
+      "GreatView",
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 4,
+    "baths": 3,
+    "squareFeet": 2000,
+    "propertyType": "Villa",
+    "postedDate": "2024-02-21T00:00:00Z",
+    "averageRating": 4.7,
+    "numberOfReviews": 13,
+    "locationId": 4,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 25,
+    "name": "Garoua City Commercial Space",
+    "description": "This commercial property in Garoua is suitable for offices, small businesses, or service providers. The space offers easy accessibility, reliable utilities, and a layout adaptable to various professional uses. Located along a busy route, it ensures good visibility and customer reach.",
+    "pricePerMonth": 1000,
+    "securityDeposit": 1000,
+    "applicationFee": 50,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c",
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094"
+    ],
+    "amenities": [
+      "HighSpeedInternet",
+      "Parking"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": true,
+    "beds": 0,
+    "baths": 2,
+    "squareFeet": 1500,
+    "propertyType": "Commercial",
+    "postedDate": "2024-02-23T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 7,
+    "locationId": 5,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 26,
+    "name": "Maroua Compact Urban Apartment",
+    "description": "This compact apartment in Maroua is designed for efficiency and comfort. Ideal for individuals or couples, the unit features essential amenities, good ventilation, and proximity to public transport and local markets.",
+    "pricePerMonth": 400,
+    "securityDeposit": 400,
+    "applicationFee": 15,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1595526114035-45b7d0a2c95d",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 1,
+    "baths": 1,
+    "squareFeet": 550,
+    "propertyType": "Apartment",
+    "postedDate": "2024-02-25T00:00:00Z",
+    "averageRating": 4.1,
+    "numberOfReviews": 5,
+    "locationId": 6,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 27,
+    "name": "Ngaoundéré Executive Townhouse",
+    "description": "This executive townhouse in Ngaoundéré offers a blend of modern comfort and serene surroundings. With multiple bedrooms, a private compound, and a quiet neighborhood, it is well-suited for professionals and families seeking stability.",
+    "pricePerMonth": 780,
+    "securityDeposit": 780,
+    "applicationFee": 30,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c"
+    ],
+    "amenities": [
+      "Parking",
+      "HighSpeedInternet"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1350,
+    "propertyType": "Townhouse",
+    "postedDate": "2024-02-27T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 9,
+    "locationId": 7,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 28,
+    "name": "Bafoussam Central Market Apartment",
+    "description": "Located near the central market area of Bafoussam, this apartment offers unmatched convenience for daily living. The unit is functional, well-maintained, and ideal for tenants who prefer easy access to commerce and transportation.",
+    "pricePerMonth": 500,
+    "securityDeposit": 500,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 800,
+    "propertyType": "Apartment",
+    "postedDate": "2024-03-01T00:00:00Z",
+    "averageRating": 4.3,
+    "numberOfReviews": 6,
+    "locationId": 8,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 29,
+    "name": "Ebolowa Green Compound Residence",
+    "description": "This residence in Ebolowa features a green compound and relaxed atmosphere, perfect for families seeking space and privacy. The property is well-structured and suitable for long-term occupancy.",
+    "pricePerMonth": 620,
+    "securityDeposit": 620,
+    "applicationFee": 25,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1400,
+    "propertyType": "Villa",
+    "postedDate": "2024-03-03T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 8,
+    "locationId": 9,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 30,
+    "name": "Kribi Beachfront Commercial Property",
+    "description": "This beachfront commercial property in Kribi is ideal for hospitality, retail, or office use. With direct access to tourist traffic and stunning surroundings, the space offers strong business potential in one of Cameroon’s most visited coastal cities.",
+    "pricePerMonth": 1800,
+    "securityDeposit": 1800,
+    "applicationFee": 70,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094",
+      "https://images.unsplash.com/photo-1497366216548-37526070297c"
+    ],
+    "amenities": [
+      "HighSpeedInternet",
+      "Parking"
+    ],
+    "highlights": [
+      "GreatView",
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": true,
+    "beds": 0,
+    "baths": 2,
+    "squareFeet": 1800,
+    "propertyType": "Commercial",
+    "postedDate": "2024-03-05T00:00:00Z",
+    "averageRating": 4.8,
+    "numberOfReviews": 12,
+    "locationId": 10,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 31,
+    "name": "Limbe Hills Residential Apartment",
+    "description": "This residential apartment is located in the elevated areas of Limbe, offering cooler temperatures and a peaceful environment. The unit is well-ventilated with a functional layout that supports comfortable everyday living. Suitable for professionals or couples looking for calm surroundings close to the coast.",
+    "pricePerMonth": 750,
+    "securityDeposit": 750,
+    "applicationFee": 30,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi",
+      "Parking"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 900,
+    "propertyType": "Apartment",
+    "postedDate": "2024-03-07T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 9,
+    "locationId": 11,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 32,
+    "name": "Kumba Central Family Residence",
+    "description": "This family-oriented residence in Kumba provides generous living space and a secure compound. The layout includes multiple bedrooms, a large living area, and practical amenities suitable for long-term family occupancy.",
+    "pricePerMonth": 680,
+    "securityDeposit": 680,
+    "applicationFee": 25,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1450,
+    "propertyType": "Villa",
+    "postedDate": "2024-03-09T00:00:00Z",
+    "averageRating": 4.5,
+    "numberOfReviews": 8,
+    "locationId": 12,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 33,
+    "name": "Bertoua Commercial Office Space",
+    "description": "This commercial office space in Bertoua is ideal for startups, NGOs, or service-based businesses. The layout is flexible, allowing customization for office operations, training rooms, or client-facing services.",
+    "pricePerMonth": 950,
+    "securityDeposit": 950,
+    "applicationFee": 45,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c",
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094"
+    ],
+    "amenities": [
+      "HighSpeedInternet",
+      "Parking"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": true,
+    "beds": 0,
+    "baths": 2,
+    "squareFeet": 1400,
+    "propertyType": "Commercial",
+    "postedDate": "2024-03-11T00:00:00Z",
+    "averageRating": 4.4,
+    "numberOfReviews": 6,
+    "locationId": 13,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 34,
+    "name": "Dschang Highland Family Home",
+    "description": "Set in the cool highlands of Dschang, this family home offers fresh air, scenic surroundings, and spacious interiors. The property is ideal for families or retirees seeking a relaxed lifestyle in a calm environment.",
+    "pricePerMonth": 550,
+    "securityDeposit": 550,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "GreatView",
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1500,
+    "propertyType": "Villa",
+    "postedDate": "2024-03-13T00:00:00Z",
+    "averageRating": 4.7,
+    "numberOfReviews": 10,
+    "locationId": 14,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 35,
+    "name": "Foumban Cultural District Apartment",
+    "description": "Located in Foumban’s cultural district, this apartment offers comfortable urban living close to historic sites and community centers. The unit is ideal for tenants seeking a blend of tradition and modern convenience.",
+    "pricePerMonth": 520,
+    "securityDeposit": 520,
+    "applicationFee": 20,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 820,
+    "propertyType": "Apartment",
+    "postedDate": "2024-03-15T00:00:00Z",
+    "averageRating": 4.3,
+    "numberOfReviews": 6,
+    "locationId": 15,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 36,
+    "name": "Nkongsamba Hillside Villa",
+    "description": "This hillside villa in Nkongsamba offers a calm living environment with open views and a large compound. The property is suitable for families or professionals seeking privacy and generous indoor and outdoor space.",
+    "pricePerMonth": 980,
+    "securityDeposit": 980,
+    "applicationFee": 35,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde"
+    ],
+    "amenities": [
+      "Parking",
+      "AirConditioning",
+      "WasherDryer"
+    ],
+    "highlights": [
+      "GreatView",
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 4,
+    "baths": 3,
+    "squareFeet": 2100,
+    "propertyType": "Villa",
+    "postedDate": "2024-03-17T00:00:00Z",
+    "averageRating": 4.8,
+    "numberOfReviews": 12,
+    "locationId": 16,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 37,
+    "name": "Mbouda Town Center Apartment",
+    "description": "This apartment is located in Mbouda’s town center, offering easy access to shops, transport, and essential services. The unit is practical and well-maintained, suitable for individuals or small families.",
+    "pricePerMonth": 480,
+    "securityDeposit": 480,
+    "applicationFee": 18,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1595526114035-45b7d0a2c95d",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+    ],
+    "amenities": [
+      "AirConditioning",
+      "WiFi"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 780,
+    "propertyType": "Apartment",
+    "postedDate": "2024-03-19T00:00:00Z",
+    "averageRating": 4.2,
+    "numberOfReviews": 5,
+    "locationId": 17,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 38,
+    "name": "Yagoua Family Compound Home",
+    "description": "This family compound home in Yagoua offers spacious outdoor areas and a simple, durable construction. It is well-suited for families seeking affordability and long-term stability in a calm neighborhood.",
+    "pricePerMonth": 420,
+    "securityDeposit": 420,
+    "applicationFee": 15,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
+    ],
+    "amenities": [
+      "Parking",
+      "PetsAllowed"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": true,
+    "isParkingIncluded": true,
+    "beds": 3,
+    "baths": 2,
+    "squareFeet": 1400,
+    "propertyType": "Villa",
+    "postedDate": "2024-03-21T00:00:00Z",
+    "averageRating": 4.4,
+    "numberOfReviews": 6,
+    "locationId": 18,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 39,
+    "name": "Batouri Suburban Apartment",
+    "description": "Located in a quiet suburban area of Batouri, this apartment offers reliable construction and a comfortable living environment. The unit is ideal for tenants seeking simplicity, affordability, and peace.",
+    "pricePerMonth": 460,
+    "securityDeposit": 460,
+    "applicationFee": 18,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+    ],
+    "amenities": [
+      "AirConditioning"
+    ],
+    "highlights": [
+      "QuietNeighborhood"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": false,
+    "beds": 2,
+    "baths": 1,
+    "squareFeet": 760,
+    "propertyType": "Apartment",
+    "postedDate": "2024-03-23T00:00:00Z",
+    "averageRating": 4.1,
+    "numberOfReviews": 4,
+    "locationId": 19,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  },
+  {
+    "id": 40,
+    "name": "Tiko Industrial Zone Commercial Space",
+    "description": "This commercial space located in Tiko’s industrial zone is suitable for warehouses, offices, or light manufacturing. The property offers easy road access and flexible interior space for business operations.",
+    "pricePerMonth": 1300,
+    "securityDeposit": 1300,
+    "applicationFee": 55,
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1497215842964-222b430dc094",
+      "https://images.unsplash.com/photo-1497366216548-37526070297c"
+    ],
+    "amenities": [
+      "HighSpeedInternet",
+      "Parking"
+    ],
+    "highlights": [
+      "CloseToTransit"
+    ],
+    "isPetsAllowed": false,
+    "isParkingIncluded": true,
+    "beds": 0,
+    "baths": 2,
+    "squareFeet": 2000,
+    "propertyType": "Commercial",
+    "postedDate": "2024-03-25T00:00:00Z",
+    "averageRating": 4.6,
+    "numberOfReviews": 9,
+    "locationId": 20,
+    "managerCognitoId": "c15c5208-90c1-7004-4eed-ed4c496a5b3a",
+    "isApproved": "Approved"
+  }
+]

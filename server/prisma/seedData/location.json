@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "country": "Cameroon",
+    "city": "Yaoundé",
+    "state": "Centre",
+    "address": "123 Avenue Kennedy",
+    "postalCode": "0001",
+    "coordinates": "POINT(11.517401 3.848033)"
+  },
+  {
+    "id": 2,
+    "country": "Cameroon",
+    "city": "Douala",
+    "state": "Littoral",
+    "address": "456 Boulevard de la Liberté",
+    "postalCode": "00237",
+    "coordinates": "POINT(9.704281 4.051056)"
+  },
+  {
+    "id": 3,
+    "country": "Cameroon",
+    "city": "Buea",
+    "state": "South West",
+    "address": "78 Molyko Street",
+    "postalCode": "8001",
+    "coordinates": "POINT(9.241676 4.152674)"
+  },
+  {
+    "id": 4,
+    "country": "Cameroon",
+    "city": "Bamenda",
+    "state": "North West",
+    "address": "12 Commercial Avenue",
+    "postalCode": "3001",
+    "coordinates": "POINT(10.159122 5.963052)"
+  },
+  {
+    "id": 5,
+    "country": "Cameroon",
+    "city": "Garoua",
+    "state": "North",
+    "address": "55 Benoue Road",
+    "postalCode": "4001",
+    "coordinates": "POINT(13.394400 9.301437)"
+  },
+  {
+    "id": 6,
+    "country": "Cameroon",
+    "city": "Maroua",
+    "state": "Far North",
+    "address": "90 Domayo Avenue",
+    "postalCode": "5001",
+    "coordinates": "POINT(14.315556 10.590950)"
+  },
+  {
+    "id": 7,
+    "country": "Cameroon",
+    "city": "Ngaoundéré",
+    "state": "Adamawa",
+    "address": "34 Plateau Road",
+    "postalCode": "6001",
+    "coordinates": "POINT(13.584719 7.327654)"
+  },
+  {
+    "id": 8,
+    "country": "Cameroon",
+    "city": "Bafoussam",
+    "state": "West",
+    "address": "67 Marché Central",
+    "postalCode": "7001",
+    "coordinates": "POINT(10.418056 5.478055)"
+  },
+  {
+    "id": 9,
+    "country": "Cameroon",
+    "city": "Ebolowa",
+    "state": "South",
+    "address": "22 Avenue des Nations",
+    "postalCode": "9001",
+    "coordinates": "POINT(11.151111 2.900278)"
+  },
+  {
+    "id": 10,
+    "country": "Cameroon",
+    "city": "Kribi",
+    "state": "South",
+    "address": "101 Ocean Front Road",
+    "postalCode": "9101",
+    "coordinates": "POINT(9.914300 2.937300)"
+  },
+
+  {
+    "id": 11,
+    "country": "Cameroon",
+    "city": "Limbe",
+    "state": "South West",
+    "address": "88 Down Beach Road",
+    "postalCode": "8201",
+    "coordinates": "POINT(9.205583 4.024214)"
+  },
+  {
+    "id": 12,
+    "country": "Cameroon",
+    "city": "Kumba",
+    "state": "South West",
+    "address": "41 Fiango Street",
+    "postalCode": "8301",
+    "coordinates": "POINT(9.445000 4.640000)"
+  },
+  {
+    "id": 13,
+    "country": "Cameroon",
+    "city": "Bertoua",
+    "state": "East",
+    "address": "16 Avenue de l’Est",
+    "postalCode": "10001",
+    "coordinates": "POINT(13.684567 4.579610)"
+  },
+  {
+    "id": 14,
+    "country": "Cameroon",
+    "city": "Dschang",
+    "state": "West",
+    "address": "9 University Road",
+    "postalCode": "7101",
+    "coordinates": "POINT(10.060277 5.446922)"
+  },
+  {
+    "id": 15,
+    "country": "Cameroon",
+    "city": "Foumban",
+    "state": "West",
+    "address": "27 Royal Palace Street",
+    "postalCode": "7201",
+    "coordinates": "POINT(10.631111 5.726389)"
+  },
+  {
+    "id": 16,
+    "country": "Cameroon",
+    "city": "Nkongsamba",
+    "state": "Littoral",
+    "address": "52 Manengouba Road",
+    "postalCode": "2101",
+    "coordinates": "POINT(9.940000 4.950000)"
+  },
+  {
+    "id": 17,
+    "country": "Cameroon",
+    "city": "Mbouda",
+    "state": "West",
+    "address": "14 Central Market Road",
+    "postalCode": "7301",
+    "coordinates": "POINT(10.255000 5.628000)"
+  },
+  {
+    "id": 18,
+    "country": "Cameroon",
+    "city": "Yagoua",
+    "state": "Far North",
+    "address": "61 Logone River Road",
+    "postalCode": "5101",
+    "coordinates": "POINT(15.233000 10.341000)"
+  },
+  {
+    "id": 19,
+    "country": "Cameroon",
+    "city": "Batouri",
+    "state": "East",
+    "address": "8 Gold Mining Road",
+    "postalCode": "10101",
+    "coordinates": "POINT(14.369000 4.433000)"
+  },
+  {
+    "id": 20,
+    "country": "Cameroon",
+    "city": "Tiko",
+    "state": "South West",
+    "address": "73 Plantation Avenue",
+    "postalCode": "8401",
+    "coordinates": "POINT(9.360000 4.080000)"
+  }
+]

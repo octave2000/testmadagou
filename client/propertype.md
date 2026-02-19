@@ -1,0 +1,23 @@
+enum PropertyType {
+  Rooms
+  Studio
+  Tinyhouse
+  Apartment
+  Condo
+  House
+  Villa
+  Townhouse
+  Cottage
+  Duplex
+  Bungalow
+  Loft
+  Land
+  Commercials
+  Office
+  Retail
+  Warehouse
+  Industrial
+  MixedUse
+  Residential
+  Residentualll
+}
